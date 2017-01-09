@@ -12,5 +12,14 @@ może sugerować, że zmiany są niewielkie, w rzeczywistości różnice między
 [php.net][php-docs] dostępna jest obszerna, przetłumaczona na wiele języków dokumentacja zawierająca opis możliwości
 języka PHP, jak również spis wszystkich dostępnych funkcji i sposobów ich wywołania.
 
+W środowiskach produkcyjnych najbardziej rozpowszechnionymi wersjami PHP są obecnie te z zakresu 5.x.
+Ostatnią wersją 5.x jest 5.6. Jest to nadal dobra opcja, ale jeśli jesteś odpowiedzialny za jakiś projekt PHP,
+to powinieneś jak najszybciej uaktualnić go do najnowszej stabilnej wersji, bo PHP 5.6
+[nie będzie otrzymywało poprawek bezpieczeństwa po roku 2018][php-support]. Aktualizacja nie jest skomplikowana,
+ale należy uwzględnić kilka zmian, które [nie są kompatybilne wstecznie][php-backwards-compatibility].
+Informacje o dostępności funkcji i funkcjonalności w poszczególnych wersjach PHP dostępne są w [podręczniku PHP][php-docs].
+
 [php-release]: http://www.php.net/downloads.php
 [php-docs]: http://www.php.net/manual/pl/
+[php-support]: http://php.net/supported-versions.php
+[php-backwards-compatibility]: http://php.net/manual/en/migration70.incompatible.php
