@@ -10,7 +10,7 @@ PHP 5.4 lub nowszej, możesz łatwo rozpocząć naukę programownaia bez instala
 HTTP, takiego jak Apache. Aby uruchomić serwer, wykonaj następujące polecenie w głównym katalogu
 swojego projektu:
 
-    php -S localhost:8000
+    > php -S localhost:8000
 
 * [Dowiedz się więcej na temat wbudowanego serwera WWW] [cli-server]
 
