@@ -5,8 +5,8 @@ isChild: true
 
 ## Instalacja na Maku {#mac_setup_title}
 
-W systemie OSX PHP jest zainstalowane domyślnie, lecz nie jest to najświeższa wersja. Wersja "Lion" posiada PHP 5.3.6,
-a "Mountain Lion" - 5.3.10. 
+W systemie macOS PHP jest zainstalowane domyślnie, lecz nigdy nie jest to najświeższa wersja.
++Wersja "Mavericks" posiada PHP 5.4.17, "Yosemite" - 5.5.9, "El Capitan" - 5.5.29 a "Sierra" 5.6.24.
 
 Jest możliwość aktualizacji preinstalowanej wersji PHP do najnowszej - można to zrobić poprzez
 [odpowiednie pakiety][mac-package-managers]. Zalecamy instalację [php-osx by Liip][php-osx-downloads].
