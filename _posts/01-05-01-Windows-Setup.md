@@ -6,7 +6,7 @@ isChild: true
 ## Instalacja w systemie Windows {#windows_setup_title}
 
 PHP w systemie Windows można zainstalować na kilka sposobów. Pierwszym z nich jest instalacja
-[binariów](php-downloads). Do wersji 5.3.0 można było korzystać z instalatora .msi, obecnie ten sposób instalacji
+[binariów][php-downloads]. Do wersji 5.3.0 można było korzystać z instalatora .msi, obecnie ten sposób instalacji
 nie jest już wspierany.
 
 Do nauki i lokalnego rozwijania aplikacji opartych o PHP najlepiej użyć serwera WWW wbudowanego w dystrybucję.
@@ -29,10 +29,10 @@ Linuksem, rozważ możliwość użycia maszyny wirtualnej. W tym celu zainteresu
 [php-downloads]: http://windows.php.net
 [phpmanager]: http://phpmanager.codeplex.com/
 [wpi]: http://www.microsoft.com/web/downloads/platform.aspx
-[zsce]: http://www.zend.com/en/products/server-ce/
-[xampp]: http://www.apachefriends.org/en/xampp.html
-[wamp]: http://www.wampserver.com/
+[zsce]: http://www.zend.com/en/products/zend_server
+[xampp]: https://www.apachefriends.org/
+[wamp]: http://www.wampserver.com/en/
 [php-iis]: http://php.iis.net/
 [vagrant]: http://vagrantup.com/
 [puppet]: http://www.puppetlabs.com/
-[chef]: http://www.opscode.com/
+[chef]: https://www.chef.io/
